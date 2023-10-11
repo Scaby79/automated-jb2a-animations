@@ -1,10 +1,10 @@
 {
-	"id": "autoanimations",
-	"title": "Automated Animations",
+	"id": "autoanimations_test",
+	"title": "Automated Animations - Test-Branch",
 	"description": "This will automatically run most JB2A Animations such as Melee/Ranged Attacks, Spell Attacks, and Instant Spells",
 	"authors": [
 		{
-			"name": "Otigon (Otigon#2010)",
+			"name": "Otigon (Otigon#2010) & Scaby79",
 			"discord": "Otigon#2010"
 		}
 	],
