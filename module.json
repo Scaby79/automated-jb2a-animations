@@ -89,6 +89,6 @@
 		]
 	},
 	"socket": true,
-	"manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
-	"download": "https://github.com/otigon/automated-jb2a-animations/releases/download/0.6.71/module.zip"
+	"manifest": "https://github.com/Scaby79/automated-jb2a-animations/blob/main/module.json",
+	"download": "https://github.com/Scaby79/automated-jb2a-animations/module.zip"
 }
